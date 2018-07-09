@@ -17,7 +17,7 @@ p {
   color: #000066;
 }
 
-a:link {
+a:link, a:visited, a:hover {
   font-weight: bold;
   color: red;
 }
