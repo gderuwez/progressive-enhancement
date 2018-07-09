@@ -80,7 +80,6 @@ li:not(:last-child) {
   min-height: 50px;
   max-height: 100px;
   padding-right: 55px;
-  border: 1px solid red;
 }
 
 li:first-child {
