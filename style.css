@@ -76,7 +76,11 @@ tr:nth-child(even) {
 
 li:not(:last-child) {
   background-repeat: no-repeat;
-  padding: 15px 0 15px 55px;
+  background-position: right;
+  min-height: 50px;
+  max-height: 100px;
+  padding-right: 55px;
+  border: 1px solid red;
 }
 
 li:first-child {
